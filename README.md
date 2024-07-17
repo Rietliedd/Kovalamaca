@@ -1,1 +1,1 @@
-# Kovalamaca
+# Kovalamaca pyhtonla yapılmış oyun
